@@ -12,7 +12,7 @@ tmp_dir = "tmp"
   exclude_regex = ["_test.go"]
   exclude_unchanged = false
   follow_symlink = false
-  full_bin = ""
+  full_bin = "STRIPE_SECRET=sk_test_51NJ9hUHcyMtlcloOfRb6GtaOaWEVWsjB1rX5Ov34R0yEOd60lomMpj5icKMKQ5MydoYG3PMlZVU4uKITpRQY01Qd00C1hEW0Cf STRIPE_KEY=pk_test_51NJ9hUHcyMtlcloOSHa3h0G0SenoYgqvlxk3roa3wbqWkLBSEtQDqjmmRQM4bPPGy22YsESPRSKyA5WYkGFB5Yqk00IQjACL7N ./tmp/main"
   include_dir = []
   include_ext = ["go", "tpl", "tmpl", "html","gohtml"]
   include_file = []
